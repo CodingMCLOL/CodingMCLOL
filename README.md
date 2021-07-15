@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CodingMCLOL
+- 👀 I’m a mad C-Type-Languages lover!
+- 🌱 I’m currently learning C and C++
+- 💞️ Only doing personal projects atm but I will soon open-source some stuff!
+- 📫 codingmclol@gmail.com
